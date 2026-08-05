@@ -1,14 +1,28 @@
-# Olá, eu sou o Jean Joe
+# Olá, eu sou o Jean Joe! 👋
 
-- 💻 **Interesses:** Tenho um grande interesse por tecnologia e programação, sempre buscando criar soluções inovadoras que melhorem processos e aumentem a produtividade nas empresas.
-- 📚 **Formação:** Estou cursando Ciência da Computação na UNIP (4º período) e no penúltimo período do curso técnico em Informática no IFAM.
-- 🤝 **Colaborações:** Procuro colaborar em projetos de desenvolvimento de software, programação e soluções de TI com impacto prático.
-- 📬 **Como me encontrar:** 
-   - Email: jeanjoe6656@gmail.com
-   - LinkedIn: [Jean Joe](https://www.linkedin.com/in/jeanjoe2606/)
-- 🌍 **Curiosidade:** Tenho 22 anos, Venho de Canutama, uma cidade pequena no Amazonas, e meu interesse por tecnologia me faz estar sempre em busca de novos aprendizados e desafios. Acredito que posso contribuir para o futuro da TI aplicando esses conhecimentos em projetos reais.
+Sou um desenvolvedor apaixonado por tecnologia e pela criação de soluções que melhoram processos e aumentam a produtividade. Gosto de atuar em desafios práticos, desenhando desde a arquitetura e infraestrutura até a interface final do usuário.
 
-<!---
-joejean2002/joejean2002 é um ✨ repositório especial ✨ porque o `README.md` (este arquivo) aparece no seu perfil GitHub.
-Você pode clicar no link de Visualização para dar uma olhada nas suas alterações.
---->
+### 👨‍💻 Sobre mim
+
+- 🎓 Cursando o 6º período de **Ciência da Computação** e na reta final do curso **Técnico em Informática** no IFAM (Campus Zona Leste), com foco na entrega do Projeto de Conclusão de Curso (PCCT).
+- 🚀 Atualmente desenvolvendo o **SGRM** (Sistema de Gestão de Restaurante e Mercadinho) e projetos de interfaces web.
+- 💡 Tenho forte interesse em **Desenvolvimento Desktop e Web**, **Princípios de UI/UX**, **Banco de Dados** e **Infraestrutura de Redes**.
+- 🌍 Natural de Canutama - AM, e atualmente morando em Manaus. Meu interesse por tecnologia me faz estar sempre em busca de novos aprendizados.
+
+### 🛠️ Tecnologias e Habilidades
+
+- **Front-end & Web:** HTML5, CSS3, JavaScript, LocalStorage, Design de UI/UX
+- **Back-end & Desktop:** Python, Tkinter, SQLite, Operações CRUD
+- **Infraestrutura:** Cabeamento estruturado, configurações de rede, Modelo OSI
+
+### 🤝 Colaborações
+
+Tenho muito interesse em colaborar em projetos de desenvolvimento de software e soluções de TI que tenham impacto no mundo real, seja estruturando dados, criando interfaces amigáveis ou desenhando a infraestrutura.
+
+### 📫 Como me encontrar
+
+- 📧 **Email:** jeanjoe6656@gmail.com
+- 💼 **LinkedIn:** [in/jeanjoe2606](https://www.linkedin.com/in/jeanjoe2606/)
+
+---
+*"Acredito que posso contribuir para o futuro da TI aplicando esses conhecimentos em projetos e desafios práticos."*
