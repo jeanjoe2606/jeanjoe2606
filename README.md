@@ -21,7 +21,7 @@ Tenho muito interesse em colaborar em projetos de desenvolvimento de software e 
 
 ### 📫 Como me encontrar
 
-- 📧 **Email:** jeanjoe6656@gmail.com
+- 📧 **Email:** jeanjoe2704@gmail.com
 - 💼 **LinkedIn:** [in/jeanjoe2606](https://www.linkedin.com/in/jeanjoe2606/)
 
 ---
