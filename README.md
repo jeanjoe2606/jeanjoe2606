@@ -33,7 +33,7 @@
 <table>
   <tr>
     <td width="35%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" alt="Coding GIF" width="180" style="border-radius: 12px;">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email GIF animado" width="140" style="border-radius: 12px;">
     </td>
     <td width="65%">
       <h2>Mensagem aos Recrutadores</h2>
