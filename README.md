@@ -2,21 +2,21 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7308EF&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+Jean+Joe;Sou+desenvolvedor+de+software;De+Manaus,+AM+para+o+mundo;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jeanjoe2704&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanjoe2704&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-</div>
+<br>
 
 <p align="center">
-  <img width="200px" height="200px"
-    src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif"
-    alt="GIF animado"
+  <img width="300px" 
+    src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"
+    alt="GIF Desenvolvedor"
     style="border-radius: 8px;"
   />
 </p>
 
 <br>
-<img src="https://pacman.abozanona.me?username=jeanjoe2704" />
+<div align="center">
+  <img src="https://pacman.abozanona.me?username=jeanjoe2704" />
+</div>
+<br>
 
 <p align="center">
   <!-- Frontend -->
@@ -60,8 +60,3 @@
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7308EF&height=120&section=footer"/>
-- 📧 **Email:** jeanjoe2704@gmail.com
-- 💼 **LinkedIn:** [in/jeanjoe2606](https://www.linkedin.com/in/jeanjoe2606/)
-
----
-*"Acredito que posso contribuir para o futuro da TI aplicando esses conhecimentos em projetos e desafios práticos."*
