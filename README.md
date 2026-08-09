@@ -13,10 +13,6 @@
 </p>
 
 <br>
-<div align="center">
-  <img src="https://pacman.abozanona.me?username=jeanjoe2704" />
-</div>
-<br>
 
 <p align="center">
   <!-- Frontend -->
